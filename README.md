@@ -2,7 +2,7 @@
 
 
 
-## 🚀 Tecnologias que eu uso
+<!--## 🚀 Tecnologias que eu uso -->
 
 - **Java**: Desenvolvimento de sistemas e aplicativos robustos.
 - **C**: Programação de baixo nível e sistemas embarcados.
