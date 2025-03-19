@@ -31,6 +31,6 @@
 ## 📫 Como me encontrar
 
 - Email: julia.splect@gmail.com
-- LinkedIn: 
+- LinkedIn: https://www.linkedin.com/in/rian-rodrigues-1b44301ba/
 
 
