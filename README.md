@@ -4,12 +4,12 @@
 
 ## 🚀 Tecnologias que eu uso 
 
-- **Java**: Desenvolvimento de sistemas e aplicativos robustos.
-- **C**: Programação de baixo nível e sistemas embarcados.
-- **JavaScript**: Criação de aplicações web dinâmicas e interativas.
-- **Node.js**: Desenvolvimento de backends rápidos e escaláveis.
-- **MySQL**: Bancos de dados relacionais e otimização de consultas.
-- **Git**: Controle de versão e colaboração em projetos.
+- **Java**
+- **C**
+- **JavaScript**
+- **Node.js**
+- **MySQL**
+- **Git**
 
 <!-- ## 🌱 Atualmente estou aprendendo
 
