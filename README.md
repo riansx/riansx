@@ -20,7 +20,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riansx&layout=compact&langs_count=6&theme=tokyonight" alt="Linguagens mais utilizadas" />
-</p>- 
+</p>
 
 <!--## 📈 Alguns dos meus projetos
 
