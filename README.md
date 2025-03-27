@@ -28,7 +28,7 @@
 - [Projeto 2](link-do-repositorio): Descrição breve do que o projeto faz.
 - [Projeto 3](link-do-repositorio): Descrição breve do que o projeto faz.
 -->
- 📫 
+   📫 
 
 - Email: julia.splect@gmail.com
 - LinkedIn: https://www.linkedin.com/in/rian-rodrigues-1b44301ba/
