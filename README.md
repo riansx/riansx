@@ -29,8 +29,11 @@
 - [Projeto 3](link-do-repositorio): Descrição breve do que o projeto faz.
 -->
   ## 📫 
-
-- Email: julia.splect@gmail.com
-- LinkedIn: https://www.linkedin.com/in/rian-rodrigues-1b44301ba/
+- <a href="mailto:julia.splect@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+<a href="https://www.linkedin.com/in/rian-rodrigues-1b44301ba/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
 
 
